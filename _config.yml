@@ -13,7 +13,7 @@ description: Simpris Project Management System
 author: Simpris
 author_email: simpricity@gmail.com
 category_dir: "/"
-baseurl: https://grafrajohn.github.io/si
+baseurl: 
 url: https://grafrajohn.github.io/si
 permalink: pretty
 paginate: 3
