@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Simpris
 description: Simpris Project Management System
 author: Simpris
