@@ -8,3 +8,9 @@ image:
 layout: page
 ---
 
+Easy to use project management – Simpris simply organises work into 4 levels:
+* Programme
+* Project
+* Tasklist
+* Task
+This gives Simpris powerful capabilities to organise tasks without over-complicating how it works. Let’s explain the 4 terms above:
