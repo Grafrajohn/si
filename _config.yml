@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Beverlonian
 description: Beverley Life
 author: Beverlonian
