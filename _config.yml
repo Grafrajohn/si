@@ -5,16 +5,13 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
-name: Beverlonian
-description: Beverley Life
-author: Beverlonian
-author_email: beverlonian@gmail.com
+name: Simpris
+description: Simpris Project Management System
+author: Simpris
+author_email: simpricity@gmail.com
 category_dir: "/"
-baseurl: https://grafrajohn.github.io/beverlonian
-url: https://grafrajohn.github.io/beverlonian
+baseurl: https://grafrajohn.github.io/si
+url: https://grafrajohn.github.io/si
 permalink: pretty
 paginate: 3
 exclude:
