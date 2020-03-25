@@ -8,5 +8,5 @@
     <!-- site css -->
     <link rel="stylesheet" href="/css/site.min.css">
     
-    <title>Hello, world!</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }} | Fine Art | Paintings{% endif %}</title>
   </head>
