@@ -5,12 +5,11 @@ layout: default
 description: Simpris blog
 heading: Simpris blog
 image: https://res.cloudinary.com/goodlycode/image/upload/v1585171877/simpris/pexels-photo-2-1024x526.jpg
-alt: Graham Art
+alt: Simpris Project Management System
 ---
 
 <div class="row">
     <div class="col-md-8">
-        <p>I like to blog about the things I get up to in the world of the arts. So feel free to read some of the entries in my blog.</p>
         {% for post in site.posts limit: 35 %}
         <div class="card mb-3" >
             <div class="row no-gutters">
@@ -29,7 +28,7 @@ alt: Graham Art
         {% endfor %}
     </div>
     <aside class="col-md-4" style="overflow-y: auto;">
-        <a href="/categories/">All posts by category</a>
+        <a href="{{ site.url }}/categories/">All posts by category</a>
         <a class="twitter-timeline" href="https://twitter.com/SimprisNews?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <a class="twitter-timeline" href="https://twitter.com/SimprisNews?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> 
