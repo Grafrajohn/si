@@ -1,12 +1,9 @@
 ---
-title: Si
+title: Simpris
 timezone: UTC
 collections:
   posts:
     title: Posts
-    output: true
-  uploads:
-    title: Uploads
     output: true
 name: Beverlonian
 description: Beverley Life
