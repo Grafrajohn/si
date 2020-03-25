@@ -14,7 +14,7 @@ author: Simpris
 author_email: simpricity@gmail.com
 category_dir: "/"
 baseurl: 
-url: https://grafrajohn.github.io/si
+url: https://grafrajohn.github.io/si/
 permalink: pretty
 paginate: 3
 exclude:
