@@ -9,7 +9,7 @@ WHY NOT SIGN UP FOR A FREE PLAN - AND IF YOU LIKE US SUBSCRIBE TO A FULL PLAN LA
 Free
 Ideal for single user. 5 users. 2 projects. 10MB storage
 Free
-Try us first
+[Try us first](https://app.simpris.com/register/new/)
 Micro
 Ideal for freelancer or small company. 30 users. 10 projects. 100MB document storage.
 $9.99
