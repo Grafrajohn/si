@@ -1,7 +1,7 @@
 ---
 title: What is project management?
 date: 2020-03-25 21:33:00 Z
-permalink: what-is-project-management
+permalink: project-management-information
 layout: default
 ---
 
