@@ -5,7 +5,6 @@ permalink: project-organisation
 layout: page
 ---
 
-# Project Organisation
 ## Organising your projects with Simpris
 The organisation of projects and their components is critical where large projects are concerned.
 
@@ -13,13 +12,14 @@ Speaking metaphorically, it is important that the project manager can see both t
 
 In Simpris projects have the following characteristics:
 
-Project name – simply the name of the project
-Project description – a detailed and structured description of the project
-Project stakeholder – the stakeholder – who the project is designed to benefit
-Project manager – the person responsible for managing the project
-Project deliverables – what the project is supposed to deliver
-Project budget – the total budget of the project
-Project importance – how important the project is – critical, minor etc
+* Project name – simply the name of the project
+* Project description – a detailed and structured description of the project
+* Project stakeholder – the stakeholder – who the project is designed to benefit
+* Project manager – the person responsible for managing the project
+* Project deliverables – what the project is supposed to deliver
+* Project budget – the total budget of the project
+* Project importance – how important the project is – critical, minor etc
+
 Projects are also broken down into task lists which are just devices by which to organise tasks. Here are a couple of sample tasklists with tasks in them.
 
 ![Simpris tasks and tasklists](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/tasklists.jpg){: .img-fluid} 
@@ -30,7 +30,7 @@ However when the project team members need to see detail they can see it: below 
 
 ![Editing tasks in Simpris](https://res.cloudinary.com/goodlycode/image/upload/v1585426467/simpris/taskedit01.jpg){: .img-fluid}
 
-Organising projects across time
+## Organising projects across time
 In addition to the project organisation shown above, tasks in Simpris can also also be placed in phases and in the schedule, to organise them across time.
 
 ## Phases
