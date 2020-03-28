@@ -5,7 +5,6 @@ permalink: project-management-information
 layout: page
 ---
 
-# What is Project Management?
 ## Organising work into projects
 What is project management? In order to start project management we first need a project. A project is something which will bring about change in some way, or something that has a defined beginning and ends when a desired goal is reached. This could be developed into a more complex definition that a project is something that is planned or devised or an important undertaking, which may involve considerable organisation, expense, resources, personnel, and equipment.
 
