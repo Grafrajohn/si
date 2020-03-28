@@ -1,6 +1,8 @@
 ---
 title: Free trial
 date: 2020-03-28 19:41:00 Z
+permalink: free-project-management-software
+layout: page
 ---
 
 # Free Project Management Software
