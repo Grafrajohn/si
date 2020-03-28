@@ -1,5 +1,5 @@
 ---
-title: Project Management Methodologies
+title: Project management methodologies
 date: 2020-03-27 23:11:00 Z
 permalink: project-management-methodologies
 layout: page
