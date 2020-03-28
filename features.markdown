@@ -7,7 +7,8 @@ image:
 layout: page
 ---
 
-Easy to use project management – Simpris simply organises work into 4 levels:
+# Easy to use project management features
+ – Simpris simply organises work into 4 levels:
 * Programme
 * Project
 * Tasklist
