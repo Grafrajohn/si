@@ -9,7 +9,7 @@ layout: page
 
 Time management is critical to the success of any project. Unless you are lucky enough to have staff who work for free, time is a major component of your project budget. Time management is a meta-activity, i.e. something that tries to optimise other activities.
 
-Time management
+![Time management with Simpris](https://res.cloudinary.com/goodlycode/image/upload/v1585434773/simpris/time-management-1966420_640.png)
 
 Managing time is according to practitioners is about prioritisation of tasks and then managing the resources, including staff, allocated to those tasks, so as to successfully execute the priority tasks.
 
