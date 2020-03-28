@@ -5,7 +5,6 @@ permalink: free-project-management-software
 layout: page
 ---
 
-# Free Project Management Software
 We want potential customers like you to try Simpris and we hope you will like it. So we allow you to get started with a free project management software account. You can just register with us and start managing your first 2 projects without paying a penny and no credit card is required to sign up.
 
 If you decide you like Simpris and want to scale up to manage more projects, then you can choose from one of our great value plans, designed to accomodate teams of all sizes.
