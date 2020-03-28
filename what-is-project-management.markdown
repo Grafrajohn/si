@@ -2,7 +2,7 @@
 title: What is project management?
 date: 2020-03-25 21:33:00 Z
 permalink: project-management-information
-layout: default
+layout: page
 ---
 
 What is Project Management?
