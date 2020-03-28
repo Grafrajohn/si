@@ -8,11 +8,11 @@ layout: page
 Kanban board – organise work with this popular visual tool
 Simpris allows you to organise your work with this increasingly popular Kanban board visual tool. Kanban is a simple yet visual and powerful way of organising tasks into various statuses.
 
-Kanban board columns
+![The Simpris kanban board](https://res.cloudinary.com/goodlycode/image/upload/v1585430087/simpris/kanban01.png)
 
 The detail of the board shows your tasks as follows. Note that on the right is a panel with which you can search for tasks assigned to you and move them between statuses:
 
-Kanban task management
+![Managing tasks in the Simpris kanban](https://res.cloudinary.com/goodlycode/image/upload/v1585430087/simpris/kanban02.png)
 
 It is thus easy to find your tasks and add them to the board.
 
@@ -38,3 +38,5 @@ The board can have stages purely for waiting The number of items in these stages
 More about time management.
 
 Here is an introductory video about Kanban.
+
+<iframe width="805" height="453" src="https://www.youtube.com/embed/jf0tlbt9lx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
