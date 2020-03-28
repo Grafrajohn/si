@@ -22,8 +22,6 @@ Project budget – the total budget of the project
 Project importance – how important the project is – critical, minor etc
 Projects are also broken down into task lists which are just devices by which to organise tasks. Here are a couple of sample tasklists with tasks in them.
 
-Simpris tasks and tasklists
-
 ![Simpris tasks and tasklists](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/tasklists.jpg) 
 
 With this system the project manager can see his project and its tasklists and tasks all in one place, making a project overview possible. Simpris is designed not to blind the project team with too much detail.
