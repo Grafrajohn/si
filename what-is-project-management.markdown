@@ -28,15 +28,15 @@ The above is simplistic but shows how a project is broken down into various grou
 
 Projects usually have both budgets and timetables and with many projects both of these are critical. For example an airport runway project that overruns its timetable may disrupt other projects by airlines to expand their number of flights. Often projects are dependant on each other. For many organisations and individuals life and existence can be viewed as a series of projects.
 
-The Project Management ‘Golden Triangle’.
+## The Project Management ‘Golden Triangle’.
 
-![The project management Golden Triangle]()
+![The project management Golden Triangle](https://res.cloudinary.com/goodlycode/image/upload/v1585424174/simpris/The_triad_constraints-300x219.jpg)
 
 A powerful way to see projects is to use the ‘Project Golden Triangle’ analogy. As can be seen from the diagram on the left, projects have 3 dimensions: cost, scope and schedule. Each of these 3 things affects the two others. So for example if you increase the scope of a project i.e. add more things into it, you will affect the schedule – it will take longer – and you will affect the cost – it will cost more. You might choose to increase scope but keep the original schedule, in which case you will have to take on more staff to deliver the project on time, so the cost dimension is affected. But you definitely cannot change one of the dimensions without impacting on the others.
 
 Contrary to what is sometimes said ‘Agile’ project management is also part of the golden triangle, but for example in many agile projects there is a schedule of steps where something must be delivered, so care has to be taken to limit the scope and cost for each part of the schedule.
 
-
+<iframe width="805" height="453" src="https://www.youtube.com/embed/K5x8Mowmk0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In more traditional ‘deliver everything in a big bang’ approaches to project management, scope and schedule tend to be constrained, which explains the cost overruns which are common. For example large government projects tend to be plagued by such overruns.
 
@@ -54,8 +54,8 @@ A project plan which foresees how the project will proceed, where and when
 A project team who will deliver the project or oversee those who deliver, with clear responsibilities for each member
 A risk assessment of risks posed by the project if it is successful or fails
 Agreed metrics to monitor the progress of the project against the plan
-Monitoring of the project budget
+## Monitoring of the project budget
 Project stakeholders – those who will gain from the completion of the project and may have initiated it
 Project closure – this includes the formal agreement or ‘signing off’ of the project if successful or any criteria by which it may be terminated uncompleted
-When to start projects
+## When to start projects
 A project is required when there is an objective to be achieved which is best achieved as a separate series of tasks outside of day to day work.
