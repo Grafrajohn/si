@@ -5,7 +5,6 @@ permalink: beginners-project-management-videos
 layout: page
 ---
 
-Beginners Project Management Videos
 YouTube is a great medium for learning about a multitude of topics and Project Management is no different so here is our pick of the best beginners project management videos.
 
 For many people videos are an engaging way to learn from the best experts, and to get the salient points about the subject. Each one of these videos is short to get you started on this fascinating subject.
