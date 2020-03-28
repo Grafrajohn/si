@@ -43,6 +43,6 @@ A phase is simply a unit if time, and the projedt manager can set up phases for 
 ## Task schedule
 Every project team member has their own schedule in Simpris, and this shows the project phases which have been set up, and how tasks are organised for that team member into the set phases as below:
 
-![]()
+![Simpris schedules help to organise work](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/schedule.jpg)
 
 We say that your projects and teams can organise themselves in Simpris.
