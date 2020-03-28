@@ -11,7 +11,7 @@ Project Management Pinterest info-graphics! We have collected some of the best i
 
 	<div class="entry-content">
 		<p><a href="https://www.simpris.com/project-management-information/" rel="noopener noreferrer" target="_blank">Project Management</a> Pinterest info-graphics! We have collected some of the best images and info-graphics about project management for your perusal. Sometimes a picture can say a thousand words, and a good info-graphic can say more.</p>
-<p></p>
+
 <p><a data-pin-do="embedBoard" data-pin-board-width="700" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.co.uk/simpris/project-management/"></a><br />
 <script async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script></p>
 			</div><!-- .entry-content -->
