@@ -1,5 +1,5 @@
 ---
-title: Beginners Project Management Videos
+title: Beginners project management videos
 date: 2020-03-27 12:45:00 Z
 permalink: beginners-project-management-videos
 layout: page
