@@ -5,7 +5,7 @@ permalink: contact
 layout: page
 ---
 
-Contact Details
+## Contact Details
 Molescroft
 Beverley
 East Riding of Yorkshire
