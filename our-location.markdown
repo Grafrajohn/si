@@ -5,9 +5,6 @@ permalink: our-location
 layout: page
 ---
 
-Our location
-
-
 Simpris Headquarters is located in the East Yorkshire region of the United Kingdom, close to the commercial and financial centre of Leeds and the bustling innovative tech hub of York.
 
 The United Kingdom has some of the most stringent data protection laws in the world and Simpris fully adheres to these laws.
