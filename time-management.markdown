@@ -17,7 +17,7 @@ Managing time is according to practitioners is about prioritisation of tasks and
 Simpris can help with your time management in the following ways:
 
 Prioritisation of tasks
-Monitoring of task-related acivity to ensure work goes into those prioritised tasks
-Predict when chains of high proprity tasks will complete – the critical path as it is called
+Monitoring of task-related activity to ensure work goes into those prioritised tasks
+Predict when chains of high priority tasks will complete – the critical path as it is called
 Time management – see where your effort is going
 With Simpris you have a bird’s eye view of where your time is going. You can see what expensive employees are doing. or not doing. Often the overview of time can come as a shock to senior managers as it reveals the waste of time on tasks which are low priority or even deemed unnecessary in the organisation’s strategy.
