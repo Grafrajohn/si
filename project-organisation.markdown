@@ -30,7 +30,7 @@ With this system the project manager can see his project and its tasklists and t
 
 However when the project team members need to see detail they can see it: below is an example of a task, as seen in edit mode:
 
-![]()
+![Editing tasks in Simpris](https://res.cloudinary.com/goodlycode/image/upload/v1585426467/simpris/taskedit01.jpg)
 
 Organising projects across time
 In addition to the project organisation shown above, tasks in Simpris can also also be placed in phases and in the schedule, to organise them across time.
