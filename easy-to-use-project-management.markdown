@@ -5,13 +5,13 @@ permalink: easy-to-use-project-management
 layout: page
 ---
 
-# Easy to Use Project Management Features
 Easy to use project management – Simpris simply organises work into 4 levels:
 
-Programme
-Project
-Tasklist
-Task
+* Programme
+* Project
+* Tasklist 
+* Task
+
 This gives Simpris powerful capabilities to organise tasks without over-complicating how it works. Let’s explain the 4 terms above:
 
 ## Programme
@@ -28,17 +28,18 @@ Finally the task is the basic unit of work in Simpris. Everything comes down to 
 
 The following data is stored against each task:
 
-name
-description
-status
-priority
-assigned to
-start date
-estimated time
-percent complete
-completion date
-phase to which task belongs
-linked task
+* name
+* description
+* status
+* priority
+* assigned to
+* start date
+* estimated time
+* percent complete
+* completion date
+* phase to which task belongs
+* linked task
+
 ## Clear and intuitive user interface
 In addition to conceptual simplicity, Simpris also benefits from a user interface designed to get you up and running quickly and intuitively. Clearly laid out pages of information and consistent look and feel assure you will not get lost as you progress your tasks from one stage to the next.
 
