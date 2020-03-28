@@ -16,12 +16,12 @@ The detail of the board shows your tasks as follows. Note that on the right is a
 
 It is thus easy to find your tasks and add them to the board.
 
-Advantages of the Kanban Board
+## Advantages of the Kanban Board
 Kanban means ‘billboard’ in Japanese. The tool was developed by the Toyota motor company in the 1950s to help with their lean manufacturing processes.
 
 Soon Kanban had spread throughout the world to many industries and sectors. The Kanban system has the following advantages:
 
-Time flexibility – there is no set duration of phases
+* Time flexibility – there is no set duration of phases
 Event driven. Rather than things happening at a preset time, things happen when the item of work has completed a previous stage
 Processes split into identifiable phases
 The kanban board can be shared between teams
