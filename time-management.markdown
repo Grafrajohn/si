@@ -20,5 +20,4 @@ Simpris can help with your time management in the following ways:
 * Predict when chains of high priority tasks will complete – the critical path as it is called
 
 ## Time management – see where your effort is going
-
 With Simpris you have a bird’s eye view of where your time is going. You can see what expensive employees are doing. or not doing. Often the overview of time can come as a shock to senior managers as it reveals the waste of time on tasks which are low priority or even deemed unnecessary in the organisation’s strategy.
