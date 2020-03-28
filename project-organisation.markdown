@@ -22,13 +22,13 @@ Project budget – the total budget of the project
 Project importance – how important the project is – critical, minor etc
 Projects are also broken down into task lists which are just devices by which to organise tasks. Here are a couple of sample tasklists with tasks in them.
 
-![Simpris tasks and tasklists](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/tasklists.jpg) 
+![Simpris tasks and tasklists](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/tasklists.jpg){: .img-fluid} 
 
 With this system the project manager can see his project and its tasklists and tasks all in one place, making a project overview possible. Simpris is designed not to blind the project team with too much detail.
 
 However when the project team members need to see detail they can see it: below is an example of a task, as seen in edit mode:
 
-![Editing tasks in Simpris](https://res.cloudinary.com/goodlycode/image/upload/v1585426467/simpris/taskedit01.jpg)
+![Editing tasks in Simpris](https://res.cloudinary.com/goodlycode/image/upload/v1585426467/simpris/taskedit01.jpg){: .img-fluid}
 
 Organising projects across time
 In addition to the project organisation shown above, tasks in Simpris can also also be placed in phases and in the schedule, to organise them across time.
@@ -41,6 +41,6 @@ A phase is simply a unit if time, and the projedt manager can set up phases for 
 ## Task schedule
 Every project team member has their own schedule in Simpris, and this shows the project phases which have been set up, and how tasks are organised for that team member into the set phases as below:
 
-![Simpris schedules help to organise work](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/schedule.jpg)
+![Simpris schedules help to organise work](https://res.cloudinary.com/goodlycode/image/upload/v1585426468/simpris/schedule.jpg){: .img-fluid}
 
 We say that your projects and teams can organise themselves in Simpris.
