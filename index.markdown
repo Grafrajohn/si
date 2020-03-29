@@ -1,12 +1,14 @@
 ---
-title: Web based project management system - Simpris
-layout: page
+title: Web based project management system
+layout: default
 description: Take back control of your projects with our web based project management
   system that is easy to use and understand.
 ---
 
 <div style="height: 220px; background-image: url('https://res.cloudinary.com/goodlycode/image/upload/v1585174895/simpris/pexels-photo-196660.jpg');"></div>
 <div class="banner-div"></div>
+
+<div class="container" style="padding-top: 10px;">
 
 ## The Simpris advantage
 
@@ -37,7 +39,7 @@ Being a web based project management system, Simpris is available to all of your
 
 <div class="call-to-action bg-primary">
 
-<h3>For up to two projects Simpris is free</h3>
+### For up to two projects Simpris is free
 
 <span>Sign up for nothing and pilot a project to see if you like us
 <a class="btn btn-primary" href="{{ site.url }}/pricing">Sign up for free</a>
@@ -82,3 +84,5 @@ Different projects require different approaches. Simpris can adapt to your chose
 * Export data to PDF files when needed.
 * Scale Simpris as your projects scale, our plans allow for adding more users and more projects.
 * We are British based and hover to adhere to strict European data laws. We take business ethics and confidentiality very seriously in all our operations.
+
+</div>
