@@ -35,9 +35,11 @@ Simpris has a Kanban board with which your staff can organise their work as it p
 
 Being a web based project management system, Simpris is available to all of your staff. If they have a computer with a browser they can contribute.
 
+<div class="call-to-action">
 For up to two projects Simpris is free
 Sign up for nothing and pilot a project to see if you like us
 Sign up for free
+</div>
 
 ### Program Management
 
