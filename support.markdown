@@ -9,7 +9,7 @@ layout: page
 
 Simpris has been designed from the latest principles of software engineering to give you the very best experience.
 
-![Simpris customer support](https://res.cloudinary.com/goodlycode/image/upload/v1585488009/simpris/support.png)
+![Simpris customer support](https://res.cloudinary.com/goodlycode/image/upload/v1585488009/simpris/support.png){: .img-fluid}
 
 However if you do experience problems you can count on our friendly support team based in Great Britain to give you the very best support and attention.
 
