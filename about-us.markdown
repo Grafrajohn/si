@@ -25,7 +25,7 @@ The Simpris team is led by its directors. We are:
 
 ### Graham
 Software Development Director
-Graham
+![Graham - Software Development Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/2013-graham-225x300.jpg)
 Graham has a wealth of experience developing and designing industrial strength web systems for small clients and some of the largest corporations in the world.
 Many thousands of people have used systems designed by
 him.
