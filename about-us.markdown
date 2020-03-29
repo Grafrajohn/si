@@ -7,7 +7,7 @@ layout: page
 
 ## Simpris team
 
-![The Simpris team](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/team.jpg)
+![The Simpris team](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/team.jpg){: .img-fluid}
 
 Simpris is the flagship product of a team of talented designers and developers based in England in the United Kingdom. So here is some information about us.
 
@@ -29,7 +29,7 @@ The Simpris team is led by its directors. We are:
 
 ### Software Development Director
 
-![Graham - Software Development Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/2013-graham-225x300.jpg)
+![Graham - Software Development Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/2013-graham-225x300.jpg){: .img-fluid}
 
 Graham has a wealth of experience developing and designing industrial strength web systems for small clients and some of the largest corporations in the world.
 Many thousands of people have used systems designed by
@@ -39,7 +39,7 @@ him.
 
 ### Customer Services Director
 
-![Linda - Customer Services Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/DSC_0090.png)
+![Linda - Customer Services Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/DSC_0090.png){: .img-fluid}
 
 Linda has many years of experience in sales, marketing, management and customer services. She has held several directorships in multinational companies
 and is an expert in the delivery of customer services.
@@ -48,6 +48,6 @@ and is an expert in the delivery of customer services.
 
 ### Data Director
 
-![Frank - Data Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/IMG057.jpg)
+![Frank - Data Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/IMG057.jpg){: .img-fluid}
 
 Frank has worked on some of the largest databases in Europe for such clients as Royal Mail UK, HSBC Bank, Nestle, Shell Oil, Unilever and the governing authorities of some of the United Kingdom’s largest cities.
