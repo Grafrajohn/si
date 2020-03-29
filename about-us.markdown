@@ -7,6 +7,8 @@ layout: page
 
 ## Simpris team
 
+![The Simpris team](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/team.jpg)
+
 Simpris is the flagship product of a team of talented designers and developers based in England in the United Kingdom. So here is some information about us.
 
 Only the very highest standards will suffice for us in design, implementation and support. The strict data security laws of the United Kingdom govern Simpris.
