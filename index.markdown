@@ -1,6 +1,6 @@
 ---
 title: Web based project management system - Simpris
-layout: default
+layout: page
 description: Take back control of your projects with our web based project management
   system that is easy to use and understand.
 ---
