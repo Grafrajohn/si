@@ -32,13 +32,11 @@ him.
 
 ### Linda
 Customer Services Director
-Linda
-
+![Linda - Customer Services Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/DSC_0090.png)
 Linda has many years of experience in sales, marketing, management and customer services. She has held several directorships in multinational companies
-and is an expert in the delivery of customer sevices.
+and is an expert in the delivery of customer services.
 
 ### Frank
 Data Director
-Frank's shoes
-
+![Frank - Data Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/IMG057.jpg)
 Frank has worked on some of the largest databases in Europe for such clients as Royal Mail UK, HSBC Bank, Nestle, Shell Oil, Unilever and the governing authorities of some of the United Kingdom’s largest cities.
