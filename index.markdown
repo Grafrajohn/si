@@ -6,6 +6,7 @@ description: Take back control of your projects with our web based project manag
 ---
 
 <div style="height: 120px; background-image: url('https://res.cloudinary.com/goodlycode/image/upload/v1585174895/simpris/pexels-photo-196660.jpg');"></div>
+<div class="banner-div"></div>
 
 ## The Simpris advantage
 
