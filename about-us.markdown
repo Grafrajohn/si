@@ -26,19 +26,28 @@ At Simpris deep thought goes into how our customers use our product, and the bus
 The Simpris team is led by its directors. We are:
 
 ### Graham
+
 Software Development Director
+
 ![Graham - Software Development Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/2013-graham-225x300.jpg)
+
 Graham has a wealth of experience developing and designing industrial strength web systems for small clients and some of the largest corporations in the world.
 Many thousands of people have used systems designed by
 him.
 
 ### Linda
+
 Customer Services Director
+
 ![Linda - Customer Services Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/DSC_0090.png)
+
 Linda has many years of experience in sales, marketing, management and customer services. She has held several directorships in multinational companies
 and is an expert in the delivery of customer services.
 
 ### Frank
+
 Data Director
+
 ![Frank - Data Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/IMG057.jpg)
+
 Frank has worked on some of the largest databases in Europe for such clients as Royal Mail UK, HSBC Bank, Nestle, Shell Oil, Unilever and the governing authorities of some of the United Kingdom’s largest cities.
