@@ -68,3 +68,8 @@ h4 {
 		margin-top: 80px;	
    }
 }
+
+.banner-div {
+	background-image: url("https://res.cloudinary.com/goodlycode/image/upload/v1585174895/simpris/pexels-photo-196660.jpg");
+	background-color: #cccccc;
+}
