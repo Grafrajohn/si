@@ -37,7 +37,7 @@ Being a web based project management system, Simpris is available to all of your
 
 <div class="call-to-action bg-primary">
 
-### For up to two projects Simpris is free
+<h3>For up to two projects Simpris is free</h3>
 
 <span>Sign up for nothing and pilot a project to see if you like us
 <a class="btn btn-warning" href="{{ site.url }}/pricing">Sign up for free</a>
