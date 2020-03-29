@@ -40,7 +40,7 @@ Being a web based project management system, Simpris is available to all of your
 
 Sign up for nothing and pilot a project to see if you like us
 
-<a class="btn btn-primary">Sign up for free</a>
+<a class="btn btn-primary" href="{{ site.url }}/pricing">Sign up for free</a>
 </div>
 
 ### Program Management
