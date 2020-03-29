@@ -35,7 +35,9 @@ A powerful way to see projects is to use the ‘Project Golden Triangle’ analo
 
 Contrary to what is sometimes said ‘Agile’ project management is also part of the golden triangle, but for example in many agile projects there is a schedule of steps where something must be delivered, so care has to be taken to limit the scope and cost for each part of the schedule.
 
-<iframe width="100%" src="https://www.youtube.com/embed/K5x8Mowmk0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/K5x8Mowmk0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 In more traditional ‘deliver everything in a big bang’ approaches to project management, scope and schedule tend to be constrained, which explains the cost overruns which are common. For example large government projects tend to be plagued by such overruns.
 
