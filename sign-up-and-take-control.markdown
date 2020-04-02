@@ -24,13 +24,13 @@ layout: page
         </div>
         <div class="card mb-4 box-shadow">
           <div class="card-header">
-            <h4 class="my-0 font-weight-normal">Pro</h4>
+            <h4 class="my-0 font-weight-normal">Micro</h4>
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>20 users included</li>
-              <li>10 GB of storage</li>
+              <li>Ideal for freelancer or small company/li>
+              <li>30 users</li>
               <li>Priority email support</li>
               <li>Help center access</li>
             </ul>
@@ -52,13 +52,10 @@ layout: page
             <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
           </div>
         </div>
+      </div>
 
-Free
+. . 10 projects. 100MB document storage.
 
-Micro
-Ideal for freelancer or small company. 30 users. 10 projects. 100MB document storage.
-$9.99
-Monthly
 Small
 Ideal for small companies. 150 users. 25 projects. 10GB document storage.
 $24.99
