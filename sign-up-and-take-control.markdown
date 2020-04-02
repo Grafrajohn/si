@@ -5,11 +5,56 @@ permalink: pricing
 layout: page
 ---
 
-WHY NOT SIGN UP FOR A FREE PLAN - AND IF YOU LIKE US SUBSCRIBE TO A FULL PLAN LATER. NO OBLIGATION!
+<span class="call-to-action">WHY NOT SIGN UP FOR A FREE PLAN - AND IF YOU LIKE US SUBSCRIBE TO A FULL PLAN LATER. NO OBLIGATION!</span>
+      <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Free</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Ideal for single user</li>
+              <li>5 users/li>
+              <li>2 projects</li>
+              <li>10 MB storage<</li>
+            </ul>
+            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+          </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Pro</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>20 users included</li>
+              <li>10 GB of storage</li>
+              <li>Priority email support</li>
+              <li>Help center access</li>
+            </ul>
+            <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+          </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Enterprise</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>30 users included</li>
+              <li>15 GB of storage</li>
+              <li>Phone and email support</li>
+              <li>Help center access</li>
+            </ul>
+            <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+          </div>
+        </div>
+
 Free
-Ideal for single user. 5 users. 2 projects. 10MB storage
-Free
-[Try us first](https://app.simpris.com/register/new/)
+
 Micro
 Ideal for freelancer or small company. 30 users. 10 projects. 100MB document storage.
 $9.99
