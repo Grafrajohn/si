@@ -16,9 +16,9 @@ layout: page
             <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>Ideal for single user</li>
-              <li>5 users/li>
+              <li>5 users</li>
               <li>2 projects</li>
-              <li>10 MB storage<</li>
+              <li>10 MB storage</li>
             </ul>
             <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
           </div>
@@ -30,7 +30,7 @@ layout: page
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Ideal for freelancer or small company/li>
+              <li>Ideal for freelancer or small company</li>
               <li>30 users</li>
               <li>Priority email support</li>
               <li>Help center access</li>
