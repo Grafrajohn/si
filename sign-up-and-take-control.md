@@ -5,7 +5,8 @@ permalink: pricing
 layout: page
 ---
 
-      <span class="call-to-action">WHY NOT SIGN UP FOR A FREE PLAN - AND IF YOU LIKE US SUBSCRIBE TO A FULL PLAN LATER. NO OBLIGATION!</span>
+**WHY NOT SIGN UP FOR A FREE PLAN - AND IF YOU LIKE US SUBSCRIBE TO A FULL PLAN LATER. NO OBLIGATION!**
+
       <div class="card-deck mb-3 text-center">
         <div class="card mb-4 box-shadow">
           <div class="card-header">
