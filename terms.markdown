@@ -164,7 +164,7 @@ Embargoes. The Customer represents and warrants that it is not barred by any app
 it does not use the Services in violation of any export restriction or embargo by the United States; and
 it does not provide access to the Services to persons on the U.S. Department of Commerce’s Denied Persons List or Entity List, or the U.S. Treasury Department’s list of Specially Designated Nationals.
 
-##Limitation of Liability
+## Limitation of Liability
 
 General. Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
 
