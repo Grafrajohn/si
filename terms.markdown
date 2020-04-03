@@ -1,3 +1,10 @@
+---
+title: Terms and Conditions
+date: 2020-04-03 12:47:00 Z
+permalink: terms
+layout: page
+---
+
 WELCOME TO SIMPRIS’S WEB PROJECT MANAGEMENT SYSTEM (THE “SERVICE”). PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY CONTAIN THE LEGAL TERMS AND CONDITIONS THAT GOVERN YOUR USE, SUBSCRIPTION AND ACCESS OF THE SERVICE.
 This Agreement (the “Agreement” or “TOS”) is between Simpris and the Customer as applicable. You are the “Customer” under this Agreement if you by clicking or tapping on a button indicating your acceptance of this Agreement, by executing a document that references this Agreement, or by using the Services. If you are an organization, the individual who agrees to this Agreement on your behalf must have the authority to bind you to this Agreement.
 Services

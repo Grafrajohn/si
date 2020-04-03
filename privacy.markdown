@@ -1,7 +1,7 @@
 ---
-title: Terms and Conditions
+title: Privacy Policy
 date: 2020-04-03 12:47:00 Z
-permalink: terms
+permalink: privacy
 layout: page
 ---
 
