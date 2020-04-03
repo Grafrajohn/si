@@ -5,7 +5,7 @@ description: Take back control of your projects with our web based project manag
   system that is easy to use and understand.
 ---
 
-![Simpris - easy project management](https://res.cloudinary.com/goodlycode/image/upload/v1585914933/simpris/pexels-photo-196660.jpg)
+![Simpris - easy project management](https://res.cloudinary.com/goodlycode/image/upload/v1585914933/simpris/pexels-photo-196660.jpg){: .img-fluid} 
 
 ## The Simpris advantage
 
