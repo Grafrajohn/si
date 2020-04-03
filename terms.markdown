@@ -1,11 +1,9 @@
 ---
-title: Terms and Conditions
+title: Simpris Terms and Conditions
 date: 2020-04-03 12:47:00 Z
 permalink: terms
 layout: page
 ---
-
-# Simpris Terms and Conditions
 
 WELCOME TO SIMPRIS’S WEB PROJECT MANAGEMENT SYSTEM (THE “SERVICE”). PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY CONTAIN THE LEGAL TERMS AND CONDITIONS THAT GOVERN YOUR USE, SUBSCRIPTION AND ACCESS OF THE SERVICE.
 

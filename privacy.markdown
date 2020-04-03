@@ -1,11 +1,9 @@
 ---
-title: Privacy Policy
+title: Simpris Privacy Policy
 date: 2020-04-03 12:47:00 Z
 permalink: privacy
 layout: page
 ---
-
-# Simpris Privacy Policy
 
 Goodly Code Limited ("Simpris") operates several websites including Simpris.com and related
 subdomains. It is Simpris's policy to respect your privacy regarding any information we may collect
