@@ -5,7 +5,7 @@ permalink: privacy
 layout: page
 ---
 
-# Simpris Terms and Conditions
+# Simpris Privacy Policy
 
 Goodly Code Limited ("Simpris") operates several websites including Simpris.com and related
 subdomains. It is Simpris's policy to respect your privacy regarding any information we may collect
