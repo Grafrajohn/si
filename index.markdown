@@ -5,8 +5,6 @@ description: Take back control of your projects with our web based project manag
   system that is easy to use and understand.
 ---
 
-![Simpris - easy project management](https://res.cloudinary.com/goodlycode/image/upload/v1585914933/simpris/pexels-photo-196660.jpg){: .img-fluid} 
-
 ## The Simpris advantage
 
 Imagine your teams – production, marketing, creative, quality control, product launch – all working together in a unified web based project management system they all understand. Staff are quickly able to navigate to find what they want – no complicated jargon or procedures to learn. Each project and its tasks can be reviewed to spot hold-ups, delays and overspends. 
