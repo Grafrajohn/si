@@ -19,4 +19,17 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/favicon-16x16.png">
     <link rel="manifest" href="{{ site.url }}/site.webmanifest">
+
+    <!-- Facebook and Twitter tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
   </head>
