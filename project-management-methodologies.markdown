@@ -117,7 +117,10 @@ This methodology was developed by the U.S. Nuclear Regulatory Commission. It has
 
 This is another complex methodology which requires reading and training to adopt, and benefits organisations where riskier agile style approaches are unsatisfactory. That it originated in the nuclear industry speaks volumes.
 
-## Information Technology Infrastructure Library
+## Information Technology Infrastructure Library (ITIL)
+
+![ITIL](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/ItilstructWiki.png)
+
 Created by the British government in 1980 to manage IT projects, this popular methodology defines services and their life cycle and divides project management into several areas:
 
 * Service strategy – decide on best strategy
