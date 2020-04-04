@@ -97,6 +97,8 @@ Well motivated kanban teams can work fast, because as soon as they complete a ta
 
 ## Systems Development Life Cycle Management (SDLCM)
 
+![Systems Development Life Cycle Management - SDLCM](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/1080px-Systems_Development_Life_Cycle.jpg)
+
 This methodology was developed by the U.S. Nuclear Regulatory Commission. It has 7 components:
 
 * Define initial project requirements
