@@ -89,6 +89,9 @@ Scrum breaks project delivery into sprints which usually last between 2 and 4 we
 In scrum all work is in the backlog, and as teams complete an item of work they take another from the backlog. There is a daily meeting to quickly discuss progress and the whole process is overseen by the scrum master whose job is to deal with any progress blockers such as problems.
 
 ## Kanban
+
+![Kanban board](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/Simple-kanban-board.jpg)
+
 Developed in Japan, this method uses the kanban board to sort tasks into various columns or statuses and provides a powerful visual system for managing projects and tasks. Kanban boards are finding their way into many forms of project management.
 
 The above kanban board is a simple example, but there can be many columns in the board in addition to the classic ‘To Do’, ‘Doing’ and ‘Done’. The board can track a piece of work through each stage of a process, and each column in the board can also represent a team. For example kanban columns in car production could be assembly, painting, test driving, transportation to showroom etc.
