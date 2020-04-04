@@ -27,7 +27,7 @@ The Simpris team is led by its directors. We are:
 
 ### Graham
 
-### Software Development Director
+#### Software Development Director
 
 ![Graham - Software Development Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/2013-graham-225x300.jpg){: .img-fluid}
 
@@ -37,7 +37,7 @@ him.
 
 ### Linda
 
-### Customer Services Director
+#### Customer Services Manager
 
 ![Linda - Customer Services Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/DSC_0090.png){: .img-fluid}
 
@@ -46,7 +46,7 @@ and is an expert in the delivery of customer services.
 
 ### Frank
 
-### Data Director
+#### Data Service Manager
 
 ![Frank - Data Director](https://res.cloudinary.com/goodlycode/image/upload/v1585489016/simpris/IMG057.jpg){: .img-fluid}
 
