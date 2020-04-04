@@ -84,6 +84,9 @@ Lesser tasks, such as painting doors, are not critical and can be left if necess
 There are many agile methodologies, but they all try and implement a people-focused way of working, and to priorities regular and often informal communications over rigid formal processes. The agile approach is very different from the waterfall approach in that complex documentation is generally not drawn up in advance, instead the product or service is designed in cooperation with the client, making changes as the team goes along. This type of project is considered more modern and flexible than more traditional project methodologies.
 
 ## Scrum
+
+![Scrum project management](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/Scrum_Framework.png)
+
 Scrum breaks project delivery into sprints which usually last between 2 and 4 weeks, and at the end of each sprint there is something delivered which can be seen by the project stakeholders. The idea is that stakeholders can see progress for themselves and steer the project as it progresses. In theory scrum should prevent big project disasters where the delivered product is not what the stakeholders envisaged.
 
 In scrum all work is in the backlog, and as teams complete an item of work they take another from the backlog. There is a daily meeting to quickly discuss progress and the whole process is overseen by the scrum master whose job is to deal with any progress blockers such as problems.
