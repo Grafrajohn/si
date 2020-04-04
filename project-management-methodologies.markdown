@@ -85,7 +85,7 @@ There are many agile methodologies, but they all try and implement a people-focu
 
 ## Scrum
 
-![Scrum project management](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/Scrum_Framework.png)
+![Scrum project management](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/Scrum_Framework.png){: .img-fluid}
 
 Scrum breaks project delivery into sprints which usually last between 2 and 4 weeks, and at the end of each sprint there is something delivered which can be seen by the project stakeholders. The idea is that stakeholders can see progress for themselves and steer the project as it progresses. In theory scrum should prevent big project disasters where the delivered product is not what the stakeholders envisaged.
 
@@ -93,7 +93,7 @@ In scrum all work is in the backlog, and as teams complete an item of work they 
 
 ## Kanban
 
-![Kanban board](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/Simple-kanban-board.jpg)
+![Kanban board](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/Simple-kanban-board.jpg){: .img-fluid}
 
 Developed in Japan, this method uses the kanban board to sort tasks into various columns or statuses and provides a powerful visual system for managing projects and tasks. Kanban boards are finding their way into many forms of project management.
 
@@ -103,7 +103,7 @@ Well motivated kanban teams can work fast, because as soon as they complete a ta
 
 ## Systems Development Life Cycle Management (SDLCM)
 
-![Systems Development Life Cycle Management - SDLCM](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/1080px-Systems_Development_Life_Cycle.jpg)
+![Systems Development Life Cycle Management - SDLCM](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/1080px-Systems_Development_Life_Cycle.jpg){: .img-fluid}
 
 This methodology was developed by the U.S. Nuclear Regulatory Commission. It has 7 components:
 
@@ -119,7 +119,7 @@ This is another complex methodology which requires reading and training to adopt
 
 ## Information Technology Infrastructure Library (ITIL)
 
-![ITIL](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/ItilstructWiki.png)
+![ITIL](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/ItilstructWiki.png){: .img-fluid}
 
 Created by the British government in 1980 to manage IT projects, this popular methodology defines services and their life cycle and divides project management into several areas:
 
@@ -185,6 +185,9 @@ The success or otherwise of recent major British government projects proves that
 PRINCE2 can effectively delegate the detail of projects to those who understand them while allowing the higher level managers to see an overview of progress through the project stages.
 
 ## PRiSM – Projects Integrating Sustainable Methods
+
+![PRiSM](https://res.cloudinary.com/goodlycode/image/upload/v1585999834/simpris/466px-The_PRiSM_Flowchart.jpg){: .img-fluid}
+
 PRiSM is designed to complete projects with minimum environmental and social impact. Environmental and social sustainability is incorporated into project management thinking.
 
 ## Benefits Realisation
