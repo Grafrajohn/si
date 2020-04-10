@@ -24,4 +24,4 @@ exclude:
 - Gruntfile.js
 - Gruntfile.coffee
 - node_modules
-image: https://res.cloudinary.com/hands.jpg
+image: https://res.cloudinary.com/goodlycode/image/upload/v1585171877/simpris/Simpris02-big.png
