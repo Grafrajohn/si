@@ -7,3 +7,4 @@ description: Welcome to the new Simpris website
 layout: post
 ---
 
+We have been busy here at Simpris, but not so busy that we cannot launch our new website. Expect some exciting new developments in the near future.
