@@ -43,4 +43,6 @@ The program may be able to reduce overall costs by grouping together projects wh
 
 Here is a YouTube video which explains the differences between program and project management.
 
-<iframe width="805" height="453" src="https://www.youtube.com/embed/XyT1wzkfgok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XyT1wzkfgok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

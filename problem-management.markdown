@@ -25,4 +25,6 @@ When your staff have solved a problem close it! In Simpris you can see the turno
 ## ITIL problem management
 Here is an instructional video about the ITIL problem management process.
 
-<iframe width="805" height="453" src="https://www.youtube.com/embed/z1Ktu0eU2kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z1Ktu0eU2kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
