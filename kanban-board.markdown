@@ -39,6 +39,6 @@ More about [time management](http://{{ site.url }}/time-management).
 
 Here is an introductory video about Kanban.
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jf0tlbt9lx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
