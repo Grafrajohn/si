@@ -1,8 +1,8 @@
 ---
 title: Kanban board
-description: Kanban board - easy drag and drop project organisation
 date: 2020-03-28 21:05:00 Z
 permalink: kanban
+description: Kanban board - easy drag and drop project organisation
 layout: page
 ---
 
