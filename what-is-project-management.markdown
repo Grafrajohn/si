@@ -30,7 +30,7 @@ Projects usually have both budgets and timetables and with many projects both of
 
 ## The Project Management ‘Golden Triangle’.
 
-![The project management Golden Triangle](https://res.cloudinary.com/goodlycode/image/upload/v1585424174/simpris/The_triad_constraints-300x219.jpg){: .img-fluid}
+{% include image.html url="https://res.cloudinary.com/goodlycode/image/upload/v1585424174/simpris/The_triad_constraints-300x219.jpg" description="The project management Golden Triangle" %}
 
 A powerful way to see projects is to use the ‘Project Golden Triangle’ analogy. As can be seen from the diagram on the left, projects have 3 dimensions: cost, scope and schedule. Each of these 3 things affects the two others. So for example if you increase the scope of a project i.e. add more things into it, you will affect the schedule – it will take longer – and you will affect the cost – it will cost more. You might choose to increase scope but keep the original schedule, in which case you will have to take on more staff to deliver the project on time, so the cost dimension is affected. But you definitely cannot change one of the dimensions without impacting on the others.
 
