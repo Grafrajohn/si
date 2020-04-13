@@ -1,8 +1,8 @@
 ---
 title: Project organisation
-description: Intuitive project organisation in the Simpris project management system 
 date: 2020-03-28 20:08:00 Z
 permalink: project-organisation
+description: Intuitive project organisation in the Simpris project management system
 layout: page
 ---
 
