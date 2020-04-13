@@ -1,8 +1,8 @@
 ---
 title: Beginners project management videos
-description: Projecty Management Videos for Beginners
 date: 2020-03-27 12:45:00 Z
 permalink: beginners-project-management-videos
+description: Projecty Management Videos for Beginners
 layout: page
 ---
 
