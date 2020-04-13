@@ -1,5 +1,6 @@
 ---
 title: Project management processes
+description: Project management processes - an overview
 date: 2020-03-27 23:13:00 Z
 permalink: project-management-processes
 layout: page

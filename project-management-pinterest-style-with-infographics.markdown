@@ -1,5 +1,6 @@
 ---
 title: Project management Pinterest style with infographics.
+description: Project management infographics on Pinterest
 date: 2020-03-27 12:25:00 Z
 permalink: project-management-pinterest-board
 layout: page

@@ -1,5 +1,6 @@
 ---
 title: Simpris Terms and Conditions
+description: Simpris terms and conditions
 date: 2020-04-03 12:47:00 Z
 permalink: terms
 layout: page

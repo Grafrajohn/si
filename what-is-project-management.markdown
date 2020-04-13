@@ -1,5 +1,6 @@
 ---
 title: What is project management?
+description: What is project management - an overview 
 date: 2020-03-25 21:33:00 Z
 permalink: project-management-information
 layout: page
