@@ -1,5 +1,6 @@
 ---
 title: About Us
+description: About the Simpris team
 date: 2020-03-27 12:48:00 Z
 permalink: about
 layout: page

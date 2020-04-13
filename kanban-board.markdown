@@ -1,5 +1,6 @@
 ---
 title: Kanban board
+description: Kanban board - easy drag and drop project organisation
 date: 2020-03-28 21:05:00 Z
 permalink: kanban
 layout: page
@@ -7,11 +8,11 @@ layout: page
 
 Simpris allows you to organise your work with this increasingly popular Kanban board visual tool. Kanban is a simple yet visual and powerful way of organising tasks into various statuses.
 
-![The Simpris kanban board](https://res.cloudinary.com/goodlycode/image/upload/v1585430087/simpris/kanban01.png){: .img-fluid}
+{% include image.html url="https://res.cloudinary.com/goodlycode/image/upload/v1585430087/simpris/kanban01.png" description="The Simpris kanban board" %}
 
 The detail of the board shows your tasks as follows. Note that on the right is a panel with which you can search for tasks assigned to you and move them between statuses:
 
-![Managing tasks in the Simpris kanban](https://res.cloudinary.com/goodlycode/image/upload/v1585430087/simpris/kanban02.png){: .img-fluid}
+{% include image.html url="https://res.cloudinary.com/goodlycode/image/upload/v1585430087/simpris/kanban02.png" description="Managing tasks in the Simpris kanban" %}
 
 It is thus easy to find your tasks and add them to the board.
 

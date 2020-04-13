@@ -1,5 +1,6 @@
 ---
-title: Free trial
+title: Free trial of project management system
+description: Free trial of a modern project management system
 date: 2020-03-28 19:41:00 Z
 permalink: free-project-management-software
 layout: page

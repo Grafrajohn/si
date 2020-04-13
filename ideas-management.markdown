@@ -1,5 +1,6 @@
 ---
 title: Ideas management
+description: Ideas management - collect ideas from your staff
 date: 2020-03-28 22:38:00 Z
 permalink: ideas-management
 layout: page
