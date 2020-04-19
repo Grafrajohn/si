@@ -5,7 +5,6 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.name }} - Simpris{% endif %}">
 
     <!-- Bootstrap CSS -->
-    <!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"-->
     <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -24,6 +23,8 @@
     <link rel="stylesheet" href="{{ site.url }}/css/site.min.css">
     
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }} - Simpris{% endif %}</title>
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/apple-touch-icon.png">

@@ -2,6 +2,7 @@
 title: Easy to use project management
 date: 2020-03-28 19:46:00 Z
 permalink: easy-to-use-project-management
+description: Easy to use project management system
 layout: page
 ---
 

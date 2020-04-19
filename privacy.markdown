@@ -2,6 +2,7 @@
 title: Simpris Privacy Policy
 date: 2020-04-03 12:47:00 Z
 permalink: privacy
+description: Simpris Privacy PSolicy
 layout: page
 ---
 

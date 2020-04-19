@@ -2,6 +2,7 @@
 title: Contact Us
 date: 2020-03-27 12:47:00 Z
 permalink: contact
+description: Contact the Simpris team
 layout: page
 ---
 

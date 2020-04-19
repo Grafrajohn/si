@@ -2,6 +2,7 @@
 title: Our location
 date: 2020-03-27 12:50:00 Z
 permalink: our-location
+description: Our location
 layout: page
 ---
 

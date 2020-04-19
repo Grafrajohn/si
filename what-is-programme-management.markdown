@@ -2,6 +2,7 @@
 title: What is programme management?
 date: 2020-03-27 12:22:00 Z
 permalink: program-management-information
+description: What is program management - an overview
 layout: page
 ---
 
