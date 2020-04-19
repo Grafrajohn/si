@@ -24,6 +24,8 @@
     <link rel="stylesheet" href="{{ site.url }}/css/site.min.css">
     
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }} - Simpris{% endif %}</title>
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/apple-touch-icon.png">
