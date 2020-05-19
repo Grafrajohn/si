@@ -9,6 +9,13 @@
     font-style: normal;
 }
 
+.app-title {
+    font-family: Museo700Regular;
+    font-size: 1.8em; 
+    color: white;
+    font-weight: bold;
+}
+
 h1 {
 	font-size: 1.4em;
 }
