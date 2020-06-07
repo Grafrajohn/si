@@ -40,9 +40,16 @@ Diversity in projects is steadily improving across lines of gender, race and eth
 
 ## More visualisation of project data
 
-The quantum leap made by computer displays, even on mobile phones and wristwatches, means that managers and coordinators are used to seeing visualisations of data. Project management data is no different to this.
+The quantum leap made by computer displays, even on mobile phones and wristwatches, means that managers and coordinators are used to seeing visualisations of data. Project management data is no different to this. Modern telecommunications, the Internet and real-time databases mean that visualisations can show data for a project is it currently is - and in a form of virtual 3D where viewers can pick a particular node and investigate it in great detail. Visualisations are already big business and will only get bigger. Typical project management visualisations include:
+
+- Gantt charts
+- Pie charts
+- Line graphs
+- RAG (Red Amber Green) diagrams
 
 ## Remote and cross border collaboration
+
+
 
 ## Blockchain security
 
