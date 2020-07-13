@@ -49,7 +49,7 @@ The quantum leap made by computer displays, even on mobile phones and wristwatch
 
 ## Remote and cross border collaboration
 
-
+The unfortunate COVID-19 crisis has accelerated cross border collaboration.
 
 ## Blockchain security
 
