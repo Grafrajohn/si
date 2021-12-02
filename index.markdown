@@ -11,7 +11,7 @@ Imagine your teams – production, marketing, creative, quality control, product
 
 You are in control – you can manage your work!
 
-Simpris has all the features required by modern project and program managers. It can be used to priotitise work, schedule work, and quickly reallocate work where necessary.
+Simpris has all the features required by modern project and program managers. It can be used to prioritise work, schedule work, and quickly reallocate work where necessary.
 
  * Project characteristics
  * Task organisation
