@@ -28,7 +28,7 @@ Simpris is the result of years of careful thinking about how people organise the
 
 ## Choose your project methodology
 
-Different projects require different approaches. Simpris can adapt to your chosen project methodology, and many of the advantages of those methodologies are baked into Simpris as features. Divide your project into phases, appoint stakeholders, bring visibility to groups of tasks. Work fast and agile with sprints of work, or work to a pre-organised and structured plan with the tried and trusted waterfall technique.
+Different projects require different approaches. Simpris can adapt to your chosen project methodology, and many of the advantages of those methodologies are baked into Simpris as features. Divide your project into phases, appoint stakeholders, bring visibility to groups of tasks. Work fast and agile with sprints of work, or work to a pre-organised and structured plan.
 
 Work Hard, Work Smart.
 Simpris has a Kanban board with which your staff can organise their work as it progresses. There is a Gantt chart too to view the committment of resources on various projects. Finally a calendar allows the project and task schedules to be viewed in time. Project managers can see where their resources are committed, and where they need to move resources.
