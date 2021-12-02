@@ -65,7 +65,7 @@ Simpris allows you to record and log problems as you manage your projects and ta
 
 ### Flexibility on project methodology
 
-Different projects require different approaches. Simpris can adapt to your chosen project methodology, and many of the advantages of those methodologies are baked into Simpris as features. Divide your project into phases, appoint stakeholders, bring visibility to groups of tasks. Work fast and agile with sprints of work, or work to a pre-organised and structured plan with the tried and trusted waterfall technique.
+Different projects require different approaches. Simpris can adapt to your chosen project methodology, and many of the advantages of those methodologies are baked into Simpris as features. Divide your project into phases, appoint stakeholders, bring visibility to groups of tasks. Work fast and agile with sprints of work, or work to a pre-organised and structured plan with more traditional approach.
 
 ## Web Based Project Management
 
