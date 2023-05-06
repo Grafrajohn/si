@@ -1,5 +1,5 @@
 ---
-title: Web based project management system - Simpris
+title: Simpris life planner - plan your life
 layout: index
 description: Take back control of your projects with our web based project management
   system that is easy to use and understand.
