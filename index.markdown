@@ -43,6 +43,14 @@ Being a web based project management system, Simpris is available to all of your
 </div>
 <br>
 
+<div class="call-to-action bg-warning">
+<h3>Open Source Version/h3>
+<span>Simpris is now open source on GitHub
+<a class="btn btn-warning" href="https://github.com/Grafrajohn/simpris-os-release">Sign up for free</a>
+</span>
+</div>
+<br>
+
 ### Program Management
 
 Sometimes an organisation will have a program which consists of various projects. Simpris has you covered here. Programs can be managed and tracked by senior management. Simpris allows you to have an overview of your projects and programs - it does not bury you in detail.
