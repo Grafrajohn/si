@@ -44,7 +44,7 @@ Being a web based project management system, Simpris is available to all of your
 <br>
 
 <div class="call-to-action bg-warning">
-<h3>Open Source Version/h3>
+<h3>Open Source Version</h3>
 <span>Simpris is now open source on GitHub
 <a class="btn btn-warning" href="https://github.com/Grafrajohn/simpris-os-release">Download Simpris!</a>
 </span>
